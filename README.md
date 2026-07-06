@@ -78,10 +78,9 @@ A full-stack web platform connecting clients with home service specialists (e.g.
 
 ## 📫 Contact
 
-- LinkedIn: :contentReference[oaicite:0]{index=0}  
-- GitHub: :contentReference[oaicite:1]{index=1}  
+- LinkedIn: [:contentReference[oaicite:0]{index=0} ](https://www.linkedin.com/in/bartosz-oleksy/) 
 - Profile: https://github.com/blksy  
-- Email: <PRIVATE_EMAIL>
+- Email: boleksy14@gmail.com
 
 ---
 
