@@ -1,91 +1,198 @@
-# Bartosz Oleksy — Software Developer (Career Changer)
+# Bartosz Oleksy — Python / Full-Stack Developer
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strong-3178C6?logo=typescript)
-![Fullstack](https://img.shields.io/badge/Fullstack-Developer-success)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Backend-092E20?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-Automated-success)
+![Git](https://img.shields.io/badge/Git-Workflow-F05032?logo=git&logoColor=white)
 
-Career changer focused on building production-ready full-stack applications using **Python** and **React ecosystem (TypeScript)**.
+Career changer focused on **Python backend and full-stack web development**.
 
-Currently developing strong fundamentals in backend systems, API design, and scalable frontend architecture.
+I build projects to develop practical experience with backend architecture,
+relational data modeling, authentication, authorization, automated testing,
+REST APIs, and modern frontend development.
+
+Currently focused primarily on **Python and Django**, while continuing to use
+**React and TypeScript** for frontend development.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🏠 Hommender — Home Services Platform
-🔗 Live: https://hommender-git-main-blksys-projects.vercel.app/
+### 🎨 Artiva — Tattoo Artist Marketplace
 
-A full-stack web platform connecting clients with home service specialists (e.g., renovation, cleaning, maintenance).
+A Django-based marketplace platform for discovering tattoo artists and studios,
+browsing their portfolios, and eventually managing bookings and reviews.
 
-**Key Features:**
-- Role-based user system (Client / Specialist)
-- Service request creation and offer posting
-- Direct communication between users
-- Authentication and database handling via Supabase
-- Responsive UI with focus on UX and usability
+The project is being developed with an emphasis on backend architecture,
+testing, security, and maintainable code rather than only implementing CRUD
+functionality.
+
+**Currently implemented:**
+
+- Custom Django user model with email-based authentication
+- Client and Artist user roles
+- Artist profiles
+- Artist profile management with authorization and ownership protection
+- Tattoo styles using Many-to-Many relationships
+- Artist portfolio data model
+- Image upload support
+- Class-Based Views
+- Django ModelForms
+- Automated model, form, and view tests
+- Git feature branch workflow
+- GitHub Issues and Pull Requests
+
+**Backend concepts used:**
+
+- One-to-One, One-to-Many and Many-to-Many relationships
+- Authentication vs authorization
+- Object ownership protection
+- Database transactions
+- Django ORM
+- Design patterns such as Factory
+- Automated testing with Django TestCase
+
+**Planned development:**
+
+- Full portfolio management
+- Booking system
+- Reviews and ratings
+- REST API
+- External API integration
+- Social authentication
+- Background tasks
+- PostgreSQL
+- Docker
+- CI/CD
 
 **Tech Stack:**
-- React (Vite)
-- TypeScript
-- React Context (state management)
-- Supabase (Auth, Database, Backend services)
-- Responsive CSS architecture
 
-**Focus:**
-- Real-world product thinking (not just CRUD)
-- Clean separation of user roles and flows
-- End-to-end fullstack implementation
+- Python
+- Django
+- SQLite (development)
+- Pillow
+- HTML / Django Templates
+- Git / GitHub
 
 ---
 
-## 💼 Experience
+### 🏠 Hommender — Home Services Platform
 
-- Self-directed software development (career transition)
-- WordPress-based websites (freelance / early-stage work)
-- Independent development of full-stack applications (Hommender as main project)
+🔗 Live: https://hommender-git-main-blksys-projects.vercel.app/
 
----
+A full-stack web platform connecting clients with home service specialists
+such as renovation, cleaning and maintenance professionals.
 
-## 🧠 Skills
+**Key Features:**
 
-**Backend / Programming:**
-- Python (learning + projects)
-- SQL
-- REST API design (practical use with Supabase)
+- Role-based user system (Client / Specialist)
+- Service request creation
+- Service offer posting
+- User profiles
+- Reviews
+- Direct communication between users
+- Authentication and database integration with Supabase
+- Responsive user interface
 
-**Frontend:**
+**Tech Stack:**
+
 - React
 - TypeScript
-- HTML5 / CSS3
-
-**Tools & Workflow:**
-- Git / GitHub
-- Postman
-- Supabase
 - Vite
+- TanStack Query
+- React Context
+- Supabase
+- Material UI
+- Tailwind CSS
 
 ---
 
-## 🎯 Current Focus
+## 🧠 Technical Skills
 
-- Strengthening Python backend development skills
-- Building production-level full-stack applications
-- Improving system design understanding (auth, flows, data modeling)
-- Writing maintainable, scalable codebases
+### Backend
+
+- Python
+- Django
+- Django ORM
+- SQL
+- Relational database modeling
+- Authentication and authorization
+- REST API fundamentals
+- Automated testing
+
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Material UI
+- Tailwind CSS
+
+### Databases & Backend Services
+
+- SQL
+- Supabase
+- SQLite
+- PostgreSQL — currently developing
+
+### Testing
+
+- Django TestCase
+- pytest
+- Unit testing
+- Model, form and view testing
+- Test isolation
+- Validation and permission testing
+
+### Tools & Workflow
+
+- Git
+- GitHub
+- Feature branches
+- Pull Requests
+- GitHub Issues
+- Postman
+- Vite
+- VS Code
+
+---
+
+## 🛠 Development Approach
+
+I use my projects to practice software development beyond individual features.
+
+My current focus includes:
+
+- designing clear relationships between domain models
+- separating authentication from authorization
+- protecting resources through ownership rules
+- writing automated tests alongside features
+- using feature branches and pull requests
+- keeping commits small and focused
+- refactoring code as projects grow
+- understanding design patterns through practical implementation
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced Django
+- Django REST Framework
+- REST API architecture
+- PostgreSQL
+- Docker
+- CI/CD
+- Background task processing
+- Application deployment
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [:contentReference[oaicite:0]{index=0} ](https://www.linkedin.com/in/bartosz-oleksy/) 
-- Profile: https://github.com/blksy  
-- Email: boleksy14@gmail.com
-
----
-
-## 🔗 Links
-
-- Hommender Project: https://hommender-git-main-blksys-projects.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/bartosz-oleksy/
 - GitHub: https://github.com/blksy
+- Email: boleksy14@gmail.com
