@@ -20,7 +20,7 @@ Currently focused primarily on **Python and Django**, while continuing to use
 
 ## 🚀 Featured Projects
 
-### 🎨 Artiva — Tattoo Artist Marketplace
+### 🎨 InkHub — Tattoo Artist Marketplace
 
 A Django-based marketplace platform for discovering tattoo artists and studios,
 browsing their portfolios, and eventually managing bookings and reviews.
